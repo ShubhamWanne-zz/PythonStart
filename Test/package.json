@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "To test python REST api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubhamwanne@psl.com",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "3.1.0"
+  }
+}
