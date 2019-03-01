@@ -1,0 +1,7 @@
+I did come up with this when working on a quick log parsing script
+that needed to accumulate data during the log parsing and I felt that
+it would nice to try doing this using js and node instead of using perl or bash.
+Anyway, I do feel that small nodejs scripts should be self contained
+and not rely on third party modules so after reading all the answers
+to this question, each using various modules to handle line parsing,
+a 13 SLOC native nodejs solution might be of interest .
